@@ -5,10 +5,10 @@ const bottle = {
     capacity:10,
 }
 
-const key = Object.keys(bottle);
-console.log(key);
-const value = Object.values(bottle);
-console.log(value);
+// const key = Object.keys(bottle);
+// console.log(key);
+// const value = Object.values(bottle);
+// console.log(value);
 const pair = Object.entries(bottle);
 console.log(pair);
 console.log(bottle);
